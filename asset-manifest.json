@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Reprod-PJ-GPT3-Website/static/css/main.0ea21559.css",
-    "main.js": "/Reprod-PJ-GPT3-Website/static/js/main.e6556726.js",
+    "main.css": "/Reprod-PJ-GPT3-Website/static/css/main.5fa35110.css",
+    "main.js": "/Reprod-PJ-GPT3-Website/static/js/main.a62162b5.js",
     "static/media/ai.png": "/Reprod-PJ-GPT3-Website/static/media/ai.aa60586ba1ba53762d94.png",
     "static/media/people.png": "/Reprod-PJ-GPT3-Website/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/Reprod-PJ-GPT3-Website/static/media/logo.16efaf42dda438e5346df59725d9e6a6.svg",
     "index.html": "/Reprod-PJ-GPT3-Website/index.html",
-    "main.0ea21559.css.map": "/Reprod-PJ-GPT3-Website/static/css/main.0ea21559.css.map",
-    "main.e6556726.js.map": "/Reprod-PJ-GPT3-Website/static/js/main.e6556726.js.map"
+    "main.5fa35110.css.map": "/Reprod-PJ-GPT3-Website/static/css/main.5fa35110.css.map",
+    "main.a62162b5.js.map": "/Reprod-PJ-GPT3-Website/static/js/main.a62162b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ea21559.css",
-    "static/js/main.e6556726.js"
+    "static/css/main.5fa35110.css",
+    "static/js/main.a62162b5.js"
   ]
 }
